@@ -9,6 +9,7 @@
     "node": "v14.17.6"
   },
   "dependencies": {
+    "axios": "^0.27.2",
     "bcrypt": "^5.0.0",
     "connect-history-api-fallback": "^1.6.0",
     "cookie-parser": "~1.4.4",
